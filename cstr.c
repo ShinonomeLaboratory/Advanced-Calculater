@@ -1,4 +1,3 @@
-
 #include"inc_com.h"
 
 uchar sig_find(string argc,uchar symb){
